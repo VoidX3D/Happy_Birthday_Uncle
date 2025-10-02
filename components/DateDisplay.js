@@ -1,0 +1,1 @@
+export default function DateDisplay() { return <div>{new Date().toLocaleDateString()}</div>; };

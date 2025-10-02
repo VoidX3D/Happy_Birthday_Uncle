@@ -1,0 +1,1 @@
+{ "name": "happy-birthday-uncle", "version": "1.0.0", "description": "A birthday card website for Rajendra Regmi", "main": "index.js", "scripts": { "test": "echo 'Error: no test specified' && exit 1" }, "author": "Your Name", "license": "ISC" }

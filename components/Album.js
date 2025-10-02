@@ -1,0 +1,1 @@
+export default function Album() { return <div className="album">Album Component</div>; };

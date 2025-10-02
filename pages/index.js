@@ -1,0 +1,1 @@
+import Head from 'next/head'; import Card3D from '../components/Card3D'; export default function Home() { return ( <div> <Head> <title>Happy Birthday Uncle</title> <link rel="icon" href="/favicon.ico" /> </Head> <main> <Card3D /> </main> </div> ); };

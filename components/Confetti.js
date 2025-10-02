@@ -1,0 +1,1 @@
+export default function Confetti() { return <div className="confetti">🎉</div>; };

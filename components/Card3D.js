@@ -1,0 +1,1 @@
+export default function Card3D() { return ( <div className="card"> <h1>Happy Birthday Uncle!</h1> </div> ); };
